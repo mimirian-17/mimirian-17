@@ -2,7 +2,7 @@
 
 Meu nome é mirian salles
 
--Estou estudando na Alura ( https:\\WWW.alura.com.br)
+-Estou estudando na Alura ( https:\\www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript 
 -Utilizo esse espaco para minha organizacão e compartilhamento dos meus projetos desenvolvidos 
 
